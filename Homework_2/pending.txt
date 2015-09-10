@@ -1,0 +1,9 @@
+random_home
+Calculate_wood
+draw_star
+draw_sun
+check height if home not present
+
+add loops
+
+comments
